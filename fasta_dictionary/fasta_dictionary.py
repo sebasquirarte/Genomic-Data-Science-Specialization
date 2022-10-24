@@ -1,5 +1,5 @@
-# fasta_dictionary - Reads a 'fasta' file and creates a dictionary containing all the DNA or AA's sequences in the file
-# 22 Oct 22 | Sebastian Quirarte | sebastianquirajus@gmail.com
+# fasta_dictionary - Reads a 'fasta' or 'txt' file and creates a dictionary containing all the DNA or AA's sequences in the file
+# Sebastian Quirarte | sebastianquirajus@gmail.com | 22 Oct 22 
 
 # Opens file
 while True:
