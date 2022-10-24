@@ -1,6 +1,6 @@
 # Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format,
-# and computes the answers to the following questions.
-# 22 Oct 22 | Sebastian Quirarte | sebastianquirajus@gmail.com
+# and computes the answers to the questions in 'instructions.txt'.
+# Sebastian Quirarte | sebastianquirajus@gmail.com | 22 Oct 22 
 
 # Opens file
 while True:
