@@ -1,6 +1,5 @@
 # Runs blast (NCBI) on dna sequence
-# Sebastian Quirarte | sebastianquirajus@gmail.com
-# 24 Oct 22
+# Sebastian Quirarte | sebastianquirajus@gmail.com | 24 Oct 22
 
 from Bio.Blast import NCBIWWW, NCBIXML
 
