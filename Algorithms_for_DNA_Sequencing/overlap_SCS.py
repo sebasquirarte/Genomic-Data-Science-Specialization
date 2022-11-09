@@ -1,4 +1,4 @@
-# Functions that determines the overlaps and Shortest Common String (SCS) to assemble a genome from a set of sequences
+# Functions that determine the overlaps and Shortest Common String (SCS) to assemble a genome from a set of sequences
 # Part of Genomic Data Science Specialization - Algorithms for DNA Sequencing by Johns Hopkins University through Coursera
 # Sebastian Quirarte | sebastianquirajus@gmail.com | 9 Nov 22
 
