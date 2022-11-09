@@ -1,4 +1,4 @@
-# Comparison betwreen Naive and Boyer–Moore string-search algorithms
+# Comparison between Naive and Boyer–Moore string-search algorithms
 # Part of Genomic Data Science Specialization - Algorithms for DNA Sequencing by Johns Hopkins University through Coursera
 # Sebastian Quirarte | sebastianquirajus@gmail.com | 29 Oct 22
 
