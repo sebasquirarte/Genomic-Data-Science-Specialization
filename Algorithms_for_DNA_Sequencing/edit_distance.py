@@ -1,4 +1,4 @@
-# Function that determines the edit distance between a sequence and a genome using a matrix
+# Functions that determine the edit distance between a sequence and a genome using a matrix
 # Part of Genomic Data Science Specialization - Algorithms for DNA Sequencing by Johns Hopkins University through Coursera
 # Sebastian Quirarte | sebastianquirajus@gmail.com | 9 Nov 22
 
