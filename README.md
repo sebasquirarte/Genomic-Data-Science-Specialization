@@ -7,6 +7,18 @@ This Specialization covers the concepts and tools to understand, analyze, and in
 ## Key tools in this repository:
 
 ### edit_distance.py 
+Functions that determine the edit distance between a sequence and a genome using a matrix
+
+### overlap_SCS.py
+Functions that determine the overlaps and Shortest Common String (SCS) to assemble a genome from a set of sequences
+
+### dna_blast.py
+Runs blast (NCBI) on dna sequence
+
+### fasta_dictionary.py
+Reads a 'fasta' or 'txt' file and creates a dictionary containing all the DNA or AA's sequences in the file
+
+
 
 
 
